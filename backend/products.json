@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 75000,
+    "image": "/images/laptop.jpg",
+    "specs": [
+      "Intel i7 Processor",
+      "Nvidia RTX 3080",
+      "16GB RAM",
+      "512GB SSD",
+      "Windows 11"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 35000,
+    "image": "/images/phone.jpg",
+    "specs": [
+     "6.1-inch Super Retina XDR display",
+     "A17 Pro chip with 6-core GPU",
+     "48MP Main Camera + 12MP Ultra Wide",
+     "256GB Storage",
+     "Ceramic Shield front, Titanium design",
+     "iOS 17",
+     "Battery life up to 23 hours video playback"
+]
+  },
+  {
+    "id": 3,
+    "name": "Headphone",
+    "price": 35000,
+    "image": "/images/headphones.jpg",
+    "specs": [
+      "Active Noise Cancellation (ANC)",
+      "30 hours battery life with quick charge",
+      "Touch sensor controls",
+      "Supports Bluetooth 5.2 and LDAC",
+      "Multi-device pairing",
+      "360 Reality Audio certified",
+      "Lightweight design (250g)"
+]
+
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "price": 35000,
+    "image": "/images/keyboard.jpg",
+    "specs": [
+     "Compact 65% layout with RGB backlight",
+     "Hot-swappable Gateron Mechanical switches",
+     "Bluetooth 5.1 and USB-C wired connectivity",
+     "Compatible with Windows, macOS, and Linux",
+     "Battery life: Up to 72 hours typing with backlight off",
+     "Aluminum frame with double-shot keycaps",
+     "Supports multitasking with up to 3 devices"
+]
+  }
+  ,{
+    "id": 5,
+    "name": "Mouse",
+    "price": 1000,
+    "image": "/images/mouse.jpg",
+    "specs": [
+     "LIGHTSPEED wireless technology",
+     "Hero 25K sensor (25,600 DPI)",
+     "Ultra-lightweight design (63g)",
+     "70-hour battery life",
+     "PTFE feet for smooth glide",
+     "5 programmable buttons",
+     "Compatible with Windows & macOS"
+]
+
+  }
+]
