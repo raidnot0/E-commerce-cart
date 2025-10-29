@@ -25,9 +25,13 @@ Built using **React (frontend)** and **Express (backend)**.
 
 ---
 
-## ⚙️ Setup Instructions
+## 🛠️ Setup Instructions
+### Frontend
+cd frontend
+npm install
+npm start
 
-### 🔹 1. Clone the repo
-```bash
-git clone https://github.com/your-username/ecommerce-cart.git
-cd ecommerce-cart
+### Backend
+cd backend
+npm install
+node server.js
