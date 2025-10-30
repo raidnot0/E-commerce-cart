@@ -27,13 +27,13 @@ Built using **React (frontend)** and **Express (backend)**.
 
 ## 🛠️ Setup Instructions
 ### Frontend
-cd frontend
-npm install
+cd frontend,
+npm install,
 npm start
 
 ### Backend
-cd backend
-npm install
+cd backend,
+npm install,
 node server.js
 
 Demo Video - 
